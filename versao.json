@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "2.2",
-  "urlApk": "https://github.com/motelficoder/espaco-real-versao/releases/download/v2.2/Espaco-Real-2.2.apk",
-  "novidades": "Atualização obrigatória: a partir de agora toda versão nova precisa ser instalada para continuar usando o app.",
-  "versionCodeMinimo": 4
+  "versionCode": 5,
+  "versionName": "2.3",
+  "urlApk": "https://github.com/motelficoder/espaco-real-versao/releases/download/v2.3/Espaco-Real-2.3.apk",
+  "novidades": "Correção das cores: qualquer diferença negativa (gôndola abaixo da venda Scanntech) agora aparece em vermelho, mesmo quando é menor que 1 ponto. Zero ou positivo continua em verde.",
+  "versionCodeMinimo": 5
 }
