@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "2.4",
-  "urlApk": "https://github.com/motelficoder/espaco-real-versao/releases/download/v2.4/Espaco-Real-2.4.apk",
-  "novidades": "Edição das medições mais clara: ao tocar numa categoria você vê todos os módulos com os valores e um botão Editar em cada um. Visita concluída tem o botão Editar medições no resumo.",
-  "versionCodeMinimo": 6
+  "versionCode": 7,
+  "versionName": "2.5",
+  "urlApk": "https://github.com/motelficoder/espaco-real-versao/releases/download/v2.5/Espaco-Real-2.5.apk",
+  "novidades": "Redes: coloque a rede no cadastro da loja e veja a média da rede (gôndola x venda), loja por loja, com PDF próprio. Fotos agora também podem vir da galeria.",
+  "versionCodeMinimo": 7
 }
