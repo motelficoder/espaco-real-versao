@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "2.0",
-  "urlApk": "https://github.com/motelficoder/espaco-real-versao/releases/download/v2.0/Espaco-Real-2.0.apk",
-  "novidades": "Novo visual passo a passo: escolha a loja, a categoria e meça um módulo por tela com os botões − / +. Resumo da loja com gôndola x venda e envio do PDF. A partir desta versão o app avisa e se atualiza sozinho.",
+  "versionCode": 3,
+  "versionName": "2.1",
+  "urlApk": "https://github.com/motelficoder/espaco-real-versao/releases/download/v2.1/Espaco-Real-2.1.apk",
+  "novidades": "Novo ícone. Cores: vermelho quando a gôndola está abaixo da venda Scanntech, verde (ótimo) quando está igual ou acima. Botão Concluir visita. Visual novo, mais limpo, com resumo da loja.",
   "versionCodeMinimo": 0
 }
